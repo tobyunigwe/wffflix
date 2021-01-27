@@ -1,0 +1,21 @@
+body {
+    background: rgb(17,0,36);
+background: linear-gradient(90deg, rgba(17,0,36,1) 0%, rgba(85,107,194,1) 0%, rgba(192,0,255,1) 100%);
+}
+
+
+#container {
+    margin: auto;
+    margin-top: 20px;
+    width: 1500px;
+    background-color: white;
+}
+
+#container-login {
+    margin: auto;
+    margin-top: 20px;
+    text-align: center;
+    width: 500px;
+    border: solid 2px lightgray;
+    border-radius: 10px;
+}
